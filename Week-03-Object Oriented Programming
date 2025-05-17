@@ -1,0 +1,9 @@
+# Week 03 - Object-Oriented Programming
+
+Here you'll find notes and code for:
+
+- Classes and Objects  
+- Constructors (`__init__`)  
+- Inheritance and Polymorphism  
+
+OOP helps organize complex programs by bundling data and behavior.
