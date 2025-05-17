@@ -1,0 +1,10 @@
+# Week 06 - APIs & Automation
+
+This folder includes projects on working with APIs and automating tasks:
+
+- Using the Requests library to fetch API data  
+- Parsing JSON responses  
+- Web scraping basics  
+- Automating repetitive tasks like sending emails or generating reports
+
+Learning how to interact with external services and automate workflows.
