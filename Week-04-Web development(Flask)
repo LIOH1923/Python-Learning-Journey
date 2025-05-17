@@ -1,0 +1,11 @@
+# Week 04 - Web Development (Flask)
+
+This folder contains projects and exercises focused on building web applications using Flask, including:
+
+- Setting up Flask applications  
+- Creating routes and views  
+- Handling forms and user input  
+- Using templates to render HTML  
+- Integrating SQLite databases
+
+
